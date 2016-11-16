@@ -1,2 +1,2 @@
 # node-todo-api
-Todo app with Nodejs and Mongoose
+Todo app **with** Nodejs and Mongoose
