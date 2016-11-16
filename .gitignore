@@ -40,3 +40,12 @@ jspm_packages
 .node_repl_history
 
 
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-todo-api.iml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/vcs.xml
+package.json
+playground/
